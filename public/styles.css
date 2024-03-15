@@ -1,0 +1,40 @@
+/* Styles for header and navigation */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Styles for quiz container */
+  #quiz-container {
+    margin-top: 20px;
+  }
+  
+  #quiz-container div {
+    margin-bottom: 10px;
+  }
+  
+  #quiz-container input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  #quiz-container label {
+    font-weight: normal;
+  }
+  
